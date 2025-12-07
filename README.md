@@ -8,7 +8,7 @@ Always learning, one line of code at a time. 🚀
 
 <!-- GIF embutido diretamente -->
 <p align="center">
-<img src="https://i.imgur.com/HWhErqb.gif"
+<img src="https://imgur.com/a/cat-sOwJ51g"
 alt="Hack Hacking Sticker" width="300"
 height="300">
 </p>
